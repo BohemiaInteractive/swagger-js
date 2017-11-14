@@ -1,5 +1,5 @@
 
-## FUTURE
+## 2.1.34
 
 * [ADDED] - when determining `nickname`, `x-sdkMethodName` has higher priority than `operationId`
 
